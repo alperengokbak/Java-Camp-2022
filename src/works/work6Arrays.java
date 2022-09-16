@@ -1,6 +1,6 @@
 package src.works;
 
-public class homeWork6Arrays {
+public class work6Arrays {
     public static void main(String[] args) {
         // A dimensional array is writting that types.
 

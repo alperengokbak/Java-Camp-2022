@@ -1,6 +1,6 @@
 package src.works;
 
-public class homeWork8MultiDimensional {
+public class work8MultiDimensional {
     public static void main(String[] args) {
         String[][] citys = {{"Miami" , "Los Angels" , "Washington"},
                             {"Berlin" , "Nurnberg" , "Leipzig"},

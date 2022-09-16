@@ -1,7 +1,7 @@
 package src.works;
 import java.util.Scanner;
 
-public class homeWork3TheBiggestNumber {
+public class work3TheBiggestNumber {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int count, number, max = Integer.MIN_VALUE, min = Integer.MAX_VALUE;

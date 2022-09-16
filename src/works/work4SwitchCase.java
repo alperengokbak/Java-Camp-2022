@@ -1,6 +1,6 @@
 package src.works;
 
-public class homeWork4SwitchCase {
+public class work4SwitchCase {
     //  The code formatting is available in Visual Studio Code through the following shortcuts: "On Windows Shift + Alt + F."
     public static void main(String[] args) {
         char grade = 'A';

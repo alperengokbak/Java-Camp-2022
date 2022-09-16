@@ -1,7 +1,7 @@
 package src.works;
 import java.util.*;
 
-public class homeWork5Loops {
+public class work5Loops {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a valid edge: ");

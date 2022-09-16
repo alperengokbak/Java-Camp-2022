@@ -1,6 +1,6 @@
 package src.works;
 
-public class homeWork1Variables {
+public class work1Variables {
     public static void main(String[] args) {
         // We should not change value of variables every lines. That's why, we use variables, these are "int", "String"...
 

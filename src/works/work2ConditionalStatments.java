@@ -1,6 +1,6 @@
 package src.works;
 
-public class homeWork2ConditionalStatments {
+public class work2ConditionalStatments {
     public static void main(String[] args) {
         int number1 = 18;
         int number2 = 18;

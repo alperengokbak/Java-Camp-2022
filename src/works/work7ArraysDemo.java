@@ -1,6 +1,6 @@
 package src.works;
 
-public class homeWork7ArraysDemo {
+public class work7ArraysDemo {
     public static void main(String[] args) {
         double[] myList = {1.2 , 2.3 , 5.4 , 6.3};
         double sum = 0;

@@ -1,6 +1,6 @@
 package src.works;
 
-public class homeWork9StringDemo {
+public class work9StringDemo {
     public static void main(String[] args) {
         String message = "The most beautiful country is the Canada";
         System.out.println(message);
