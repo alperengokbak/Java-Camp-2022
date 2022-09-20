@@ -1,6 +1,6 @@
 package src;
 
-public class intro {
+public class week1intro {
     public static void main(String[] args) {
         // Variables is written with camelCase. camelCase meaning is the first letter of word is small, second letter of word is written big.
         String middleText = "You may be interested";
