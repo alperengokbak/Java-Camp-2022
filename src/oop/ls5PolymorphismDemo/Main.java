@@ -1,6 +1,6 @@
 package src.oop.ls5PolymorphismDemo;
 
-public class MainClass {
+public class Main {
     public static void main(String[] args) {
         /*BaseLogger[] loggers = {new FileLogger(), new EmailLogger(), new DataBaseLogger()};
 

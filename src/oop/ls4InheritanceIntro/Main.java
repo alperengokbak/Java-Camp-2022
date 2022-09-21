@@ -1,6 +1,6 @@
 package src.oop.ls4InheritanceIntro;
 
-public class mainClass {
+public class Main {
     public static void main(String[] args) {
         Customer customer = new Customer();
         Employee employee = new Employee();
