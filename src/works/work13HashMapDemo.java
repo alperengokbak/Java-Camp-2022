@@ -1,8 +1,8 @@
-package src.oop.ls13HashMapDemo;
+package src.works;
 
 import java.util.HashMap;
 
-public class Main {
+public class work13HashMapDemo {
     public static void main(String[] args) {
         HashMap<String, String> dict = new HashMap<String, String>();
         dict.put("Book", "Kitap");

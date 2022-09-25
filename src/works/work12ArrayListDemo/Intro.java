@@ -1,4 +1,4 @@
-package src.oop.ls12ArrayListDemo;
+package src.works.work12ArrayListDemo;
 
 import java.util.ArrayList;
 import java.util.Collections;

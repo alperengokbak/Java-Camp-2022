@@ -1,4 +1,4 @@
-package src.oop.ls17WorkingWithFile;
+package src.works;
 
 import java.io.BufferedWriter;
 import java.io.File;
@@ -7,7 +7,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class Main {
+public class work17WorkingWithFile {
     public static void createTheFile(){
         File file = new File("C:\\Users\\HP\\vsCode\\javaKodlamaio\\files\\students.txt");
         try {

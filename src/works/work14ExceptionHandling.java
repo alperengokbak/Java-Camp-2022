@@ -1,6 +1,6 @@
-package src.oop.ls14ExceptionHandling;
+package src.works;
 
-public class Main {
+public class work14ExceptionHandling {
     public static void main(String[] args) {
         int[] numbers = {18, 25, 30};
         try {   // If inside of the try has a error, catch will run.

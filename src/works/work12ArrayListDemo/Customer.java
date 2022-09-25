@@ -1,4 +1,4 @@
-package src.oop.ls12ArrayListDemo;
+package src.works.work12ArrayListDemo;
 
 public class Customer {
     int id;

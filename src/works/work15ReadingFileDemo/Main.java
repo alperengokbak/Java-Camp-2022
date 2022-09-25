@@ -1,4 +1,4 @@
-package src.oop.ls15ReadingFileDemo;
+package src.works.work15ReadingFileDemo;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
@@ -10,7 +10,7 @@ public class Main {
         BufferedReader reader = null;
         int total = 0;
         try {
-        reader = new BufferedReader(new FileReader("C:\\Users\\HP\\vsCode\\javaKodlamaio\\src\\oop\\ls15ReadingFileDemo\\numbers.txt"));
+        reader = new BufferedReader(new FileReader("C:\\Users\\HP\\vsCode\\javaKodlamaio\\src\\works\\work15ReadingFileDemo\\numbers.txt"));
         String line = null;
         while((line = reader.readLine()) != null){
             total += Integer.valueOf(line);

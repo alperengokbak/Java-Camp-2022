@@ -1,4 +1,4 @@
-package src.oop.ls16ThrowDemo;
+package src.works.work16ThrowDemo;
 
 public class Main {
     public static void main(String[] args) {
